@@ -2,6 +2,8 @@
 
 A modern e-commerce store built with Next.js 15, featuring a clean and responsive design with product catalog, individual product pages, and a robust database setup.
 
+🌐 **Live Demo**: [https://my-prostore-topaz.vercel.app/](https://my-prostore-topaz.vercel.app/)
+
 ## ✨ Features
 
 - **Product Catalog**: Browse products with filtering and search capabilities
@@ -102,6 +104,11 @@ The application uses a single `Product` model with the following fields:
 - Metadata: creation date, featured status
 
 ## 🚀 Deployment
+
+### Live Application
+
+The application is currently deployed on Vercel and accessible at:
+**🔗 [https://my-prostore-topaz.vercel.app/](https://my-prostore-topaz.vercel.app/)**
 
 ### Deploy on Vercel
 
